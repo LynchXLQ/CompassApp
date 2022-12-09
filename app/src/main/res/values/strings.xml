@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CompassApp</string>
+    <string name="project_name">Compass </string>
+    <string name="Azimuth">Azimuth</string>
+    <string name="Pitch">Pitch</string>
+    <string name="Roll">Roll</string>
+    <string name="tv_orientation">3-axis orientation sensor</string>
+</resources>
