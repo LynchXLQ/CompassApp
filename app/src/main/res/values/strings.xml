@@ -4,5 +4,9 @@
     <string name="Azimuth">Azimuth</string>
     <string name="Pitch">Pitch</string>
     <string name="Roll">Roll</string>
+    <string name="x_axis">X-axis</string>
+    <string name="y_axis">Y-axis</string>
+    <string name="z_axis">Z-axis</string>
+    <string name="tv_gyroscope">3-axis gyroscope sensor (rad/s)</string>
     <string name="tv_orientation">3-axis orientation sensor</string>
 </resources>
